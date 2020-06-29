@@ -1,0 +1,5 @@
+user -> footer
+header -> links 
+banner title  
+
+C:\wamp64\www\elearn\admin\videos ( right click (view content)
